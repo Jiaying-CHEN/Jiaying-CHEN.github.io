@@ -5,7 +5,7 @@
 作业1是我基于上一次词频统计的作业所做的可视化图表，
 统计了《小时代1》中出现的人物名字的频次，并将其用pltbar,词云和pictorialbar三种形式呈现。
 
-[作业1pltbar链接](Jiaying-CHEN.github.io/小时代人名统计.png)
+[作业1pltbar链接](http://Jiaying-CHEN.github.io/小时代人名统计.png)
 
 [作业1词云链接](https://jiaying-chen.github.io/wordcloud_diamond.html)
 
@@ -24,7 +24,7 @@
 ## 3.作业3
 作业3是我运用map制作的北京大学2019年在全国各个省份的理科分数线，数据来源于网络
 
-[作业3链接](Jiaying-CHEN.github.io/2019年北京大学高考录取分数线_map.html)
+[作业3链接](https://jiaying-chen.github.io/2019%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E5%88%86%E6%95%B0%E7%BA%BF_map.html)
 
 ## 4.作业4
 作业4是我制作的我家所购买和想要购买的的基金的几项重要指标对比图，
