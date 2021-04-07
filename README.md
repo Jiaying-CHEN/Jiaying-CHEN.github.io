@@ -3,7 +3,9 @@
 ## 1800015172 陈佳颖
 ## 1.作业1
 作业1是我基于上一次词频统计的作业所做的可视化图表，
-统计了《小时代1》中出现的人物名字的频次，并将其用词云和pictorialbar两种形式呈现。
+统计了《小时代1》中出现的人物名字的频次，并将其用pltbar,词云和pictorialbar三种形式呈现。
+
+[作业1pltbar链接](Jiaying-CHEN.github.io/小时代人名统计.png)
 
 [作业1词云链接](https://jiaying-chen.github.io/wordcloud_diamond.html)
 
